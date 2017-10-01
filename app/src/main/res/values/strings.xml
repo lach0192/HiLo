@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HiLo</string>
+    <string name="author" translatable="false">Eric Lachapelle (lach0192)</string>
+    <string name="action_about">About</string>
+    <string name="guessLabel">Guess a number</string>
+    <string name="guessButtonText">GUESS</string>
+    <string name="pleaseReset">Please Reset!</string>
+    <string name="reset">Reset</string>
+    <string name="tooHigh">Too High!</string>
+    <string name="tooLow">Too Low!</string>
+    <string name="superiorWin">Superior Win!</string>
+    <string name="excellentWin">Excellent Win!</string>
+</resources>
