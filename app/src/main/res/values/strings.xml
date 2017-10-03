@@ -10,4 +10,5 @@
     <string name="tooLow">Too Low!</string>
     <string name="superiorWin">Superior Win!</string>
     <string name="excellentWin">Excellent Win!</string>
+    <string name="hilo_icon_image">HiLo Icon Image</string>
 </resources>

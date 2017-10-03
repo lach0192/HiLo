@@ -47,4 +47,14 @@
         android:text="@string/reset"
         android:textColor="@color/colorTextDark" />
 
+    <ImageView
+        android:id="@+id/hiloImage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/userGuess"
+        android:layout_marginEnd="48dp"
+        android:layout_toStartOf="@+id/userGuess"
+        android:src="@mipmap/hilo_icon"
+        android:contentDescription="@string/hilo_icon_image"/>
+
 </RelativeLayout>
